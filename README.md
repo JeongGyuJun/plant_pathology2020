@@ -443,9 +443,3 @@ Train, Validation Accuracy 높은 값을 받을 수 있었으며 Test 결과도 
 결과적으로 이 대회기간 내에서 다음과 같은 성적으로 마무리를 하였음.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/45933225/86772058-47c1e580-c08e-11ea-89c1-c9d228a8dc97.png" width="80%"></p>
-
-값진 경험으로 많은 것을 배울 수 있었으며 다음 대회 또는 프로젝트가 있을 경우 조금 더 수월하고 체계적으로 수행할 자신이 들었다.
-
-##### 끝으로 데이터를 제공한 Kaggle CVPR2020 그리고 실습 환경에 도움을 준 Google Colab 마지막으로 주변 지인분들에게 감사하다는 인사말을 남깁니다. 
-
-###### 본 레퍼지토리에 문제가 있을 경우 조치를 하겠습니다.
